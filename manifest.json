@@ -1,0 +1,16 @@
+{
+  "name": "Dashboard Empleos",
+  "short_name": "Empleos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Testaker1/web-escolar/refs/heads/main/logo%20app%20pega.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
